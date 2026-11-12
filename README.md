@@ -1,7 +1,7 @@
 # CtrlChieftainMsSneha-
 # Hi, I'm Sneha! 👋
 
-https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2lkNnh0MDh3c2tzeDludGhta2p3d3JrcjN4eGpyeWowdTd3M25pNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6FxJBpNTBgWdJCXKD4/giphy.gif
+<img width="480" height="480" alt="Frog Vibing GIF by LINE FRIENDS" src="https://github.com/user-attachments/assets/77519306-fb7a-4a39-8dc2-e3f0afaca846" />
 
 🎨 Art & Technology Enthusiast
 
