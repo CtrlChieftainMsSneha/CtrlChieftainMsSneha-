@@ -2,7 +2,7 @@
 
 <img width="270" height="270" alt="Happy Thinking GIF by OO-Kun" src="https://github.com/user-attachments/assets/7df03b49-dbf9-4b99-82d9-f05151e479a0" />
 
-🎨 I love art 
+🎨 I love problem solving and art 
 
 💻 Currently relearning Python ..
 
