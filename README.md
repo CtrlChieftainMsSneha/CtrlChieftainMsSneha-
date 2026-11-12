@@ -14,9 +14,9 @@
 
 ## Languages and Tools
 
-![Art](https://img.shields.io/badge/Art-388E68)
-![Technology](https://img.shields.io/badge/Technology-E58BAE)
-![Python](https://img.shields.io/badge/Python-388E68)
+![Art](https://img.shields.io/badge/Art-0B3D91)
+![Technology](https://img.shields.io/badge/Technology-155EEF)
+![Python](https://img.shields.io/badge/Python-2563EB)
 
 ## Connect with me
 [GitHub](https://github.com/CtrlChieftainMsSneha)
