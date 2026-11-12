@@ -1,6 +1,6 @@
 # Hi, I'm Sneha! 👋
 
-<img width="480" height="480" alt="Frog Vibing GIF by LINE FRIENDS" src="https://github.com/user-attachments/assets/4d81a232-898f-4cd6-b734-6a98c625c9cb" />
+<img width="360" height="480" alt="Happy Sad Idea GIF by Barbara Pozzi" src="https://github.com/user-attachments/assets/d7a25885-5356-4402-b884-7c30f38f10aa" />
 
 🎨 I love art 
 
